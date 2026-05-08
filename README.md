@@ -14,10 +14,10 @@ A lightweight C# WinForms overlay that displays your left and right click speed 
 
 ## Screenshots
 
-<img width="228" height="146" alt="capture cps4" src="https://github.com/user-attachments/assets/c1024644-0de1-4ab9-9b60-9236d9f602c2" />
-<img width="225" height="163" alt="capture cps3" src="https://github.com/user-attachments/assets/870ff572-09e6-42c5-ace3-4fd53a661caf" />
-<img width="261" height="441" alt="capture cps2" src="https://github.com/user-attachments/assets/cb6d81d5-9066-42c2-8c78-b8604b2e0fd3" />
-<img width="358" height="226" alt="capture cps1" src="https://github.com/user-attachments/assets/6a8dbb1c-d571-45c3-a053-cfb2bf5a1ffd" />
+<img width="358" height="226" alt="capture cps1" src="https://github.com/user-attachments/assets/d4790de7-270a-463b-858f-cc3dae413941" />
+<img width="261" height="441" alt="capture cps2" src="https://github.com/user-attachments/assets/1fde317b-e8e1-400c-ba1f-37dbddbaafa2" />
+<img width="228" height="146" alt="capture cps4" src="https://github.com/user-attachments/assets/6de5d7df-b927-4bd7-b613-30c51c5bfa31" />
+
 
 
 ---
